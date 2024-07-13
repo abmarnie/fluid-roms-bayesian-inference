@@ -1,5 +1,5 @@
 # fluid-roms-bayesian-inference
-An experimental repo for constructing ROMs for the numerical solution of statistical inference problems in fluid dynamics. Largely based off of the work of [[1]](#1) and [[2]](#2).
+An experimental repo for constructing ROMs for the numerical solution of statistical inference problems in fluid dynamics. Largely based off of the work of [[1]](#1) and [[2]](#2), as well the repos [[3]](#3), [[4]](#4), and [[5]](#5).
 
 ## Dependencies
 
@@ -43,3 +43,12 @@ Jeff Borggaard, Nathan E Glatt-Holtz, and Justin Krometis. "A statistical framew
   publisher={IOP Publishing}
 }
 ```
+
+<a id="3">[3]</a>
+https://github.com/jborggaard/BayesianShape/tree/master
+
+<a id="4">[4]</a>
+https://github.com/krometis/InfDimMCMC.jl
+
+<a id="5">[5]</a>
+https://github.com/jborggaard/FEMfunctions.jl
