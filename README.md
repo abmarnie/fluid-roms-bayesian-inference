@@ -1,7 +1,5 @@
 # fluid-roms-bayesian-inference
 
-[![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://github.com/SciML/SciMLStyle)
-
 An experimental repo for constructing ROMs for the numerical solution of statistical inference problems in fluid dynamics. Largely based off of the work of [[1]](#1) and [[2]](#2), as well the repos [[3]](#3), [[4]](#4), and [[5]](#5).
 
 ## Dependencies
