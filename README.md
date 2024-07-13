@@ -2,7 +2,7 @@
 
 [![SciML Code Style](https://img.shields.io/static/v1?label=code%20style&message=SciML&color=9558b2&labelColor=389826)](https://github.com/SciML/SciMLStyle)
 
-An experimental repo for constructing ROMs for the numerical solution of statistical inference problems in fluid dynamics. Largely based off of the work of [[1]](#1) and [[2]](#2), as well the repos [[3]](#3), [[4]](#4), and [[5]](#5).
+An experimental repo for constructing ROMs for the numerical solution of statistical inference problems in fluid dynamics. The problems come from the papers [[1]](#1) and [[2]](#2).
 
 ## Dependencies
 
@@ -47,11 +47,8 @@ Jeff Borggaard, Nathan E Glatt-Holtz, and Justin Krometis. "A statistical framew
 }
 ```
 
-<a id="3">[3]</a>
-https://github.com/jborggaard/BayesianShape/tree/master
+## Acknowledgments
 
-<a id="4">[4]</a>
-https://github.com/krometis/InfDimMCMC.jl
+This project uses the [julia-actions/julia-format](https://github.com/julia-actions/julia-format) GitHub Action, which is licensed under the MIT License.
 
-<a id="5">[5]</a>
-https://github.com/jborggaard/FEMfunctions.jl
+Some implementation details in this project are largely based off of [BayesianShape](https://github.com/jborggaard/BayesianShape), [InfDimMCM.jl](https://github.com/krometis/InfDimMCMC.jl), and [FEMfunctions.jl](https://github.com/jborggaard/FEMfunctions.jl).
