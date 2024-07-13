@@ -15,7 +15,31 @@ An experimental repo for constructing ROMs for the numerical solution of statist
 ## References
 
 <a id="1">[1]</a>
-Jeff Borggaard, Nathan Glatt-Holtz, and Justin Krometis. “A Bayesian ap-proach to estimating background flows from a passive scalar”. In: SIAM/ASA Journal on Uncertainty Quantification 8.3 (2020), pp. 1036–1060.
+Jeff Borggaard, Nathan Glatt-Holtz, and Justin Krometis. "A Bayesian approach to estimating background flows from a passive scalar". In: SIAM/ASA Journal on Uncertainty Quantification 8.3 (2020), pp. 1036–1060.
+```
+@article{borggaard2020bayesian,
+  title={A Bayesian approach to estimating background flows from a passive scalar},
+  author={Borggaard, Jeff and Glatt-Holtz, Nathan and Krometis, Justin},
+  journal={SIAM/ASA Journal on Uncertainty Quantification},
+  volume={8},
+  number={3},
+  pages={1036--1060},
+  year={2020},
+  publisher={SIAM}
+}
+```
 
 <a id="2">[2]</a>
-Jeff Borggaard, Nathan E Glatt-Holtz, and Justin Krometis. “A statisti-cal framework for domain shape estimation in Stokes flows”. In: Inverse Problems 39.8 (2023), p. 085009.
+Jeff Borggaard, Nathan E Glatt-Holtz, and Justin Krometis. "A statistical framework for domain shape estimation in Stokes flows". In: Inverse Problems 39.8 (2023), p. 085009.
+```
+@article{borggaard2023statistical,
+  title={A statistical framework for domain shape estimation in Stokes flows},
+  author={Borggaard, Jeff and Glatt-Holtz, Nathan E and Krometis, Justin},
+  journal={Inverse Problems},
+  volume={39},
+  number={8},
+  pages={085009},
+  year={2023},
+  publisher={IOP Publishing}
+}
+```
