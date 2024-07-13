@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "julialang.language-julia",
-        "0h7z.vscode-julia-format"
+        "julialang.language-julia"
     ]
 }
