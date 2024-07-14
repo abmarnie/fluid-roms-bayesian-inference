@@ -50,3 +50,5 @@ Jeff Borggaard, Nathan E Glatt-Holtz, and Justin Krometis. "A statistical framew
 This project uses the [julia-actions/julia-format](https://github.com/julia-actions/julia-format) GitHub Action, which is under the MIT License.
 
 Some implementation details in this project are largely based off of [BayesianShape](https://github.com/jborggaard/BayesianShape), [InfDimMCM.jl](https://github.com/krometis/InfDimMCMC.jl), and [FEMfunctions.jl](https://github.com/jborggaard/FEMfunctions.jl), which are all under the MIT License.
+
+This [Julia guide](https://modernjuliaworkflows.github.io/) has been very valuable.
