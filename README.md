@@ -17,6 +17,10 @@ On windows:
 
 `git clone https://github.com/abmarnie/fluid-roms-bayesian-inference.git`
 
+## Running
+
+I recommend you get [Visual Studio Code](https://code.visualstudio.com/), as well as the official [Julia extension](https://code.visualstudio.com/docs/languages/julia). Start the Julia REPL in the terminal by running `julia`, enter package management mode by hitting `]`, then switch to this project's environment (which installs all of the Julia package dependencies specified in `Project.tombl`) by entering `activate .` (assuming you are in the root directory). 
+
 ## References
 
 <a id="1">[1]</a>
