@@ -5,9 +5,13 @@ An experimental repo for constructing ROMs for the numerical solution of statist
 ## Dependencies
 
 1. [Git](https://git-scm.com/downloads). 
-2. [Julia](https://julialang.org/). As of July 2024, the officially recommended way to get Julia is to install [juliaup](https://github.com/JuliaLang/juliaup); it is a popular Julia version manager. In any Unix-like shell (e.g., Git Bash for Windows), you can download and install juliaup (which comes with Julia) in one command:
+2. [Julia](https://julialang.org/). As of July 2024, the officially recommended way to get Julia is to install [juliaup](https://github.com/JuliaLang/juliaup); it is a popular Julia version manager. On Linux and Mac, you can download and install juliaup (which comes with Julia) in one command:
 
 `curl -fsSL https://install.julialang.org | sh`
+
+On windows: 
+
+`winget install julia -s msstore`
 
 ## Installation
 
