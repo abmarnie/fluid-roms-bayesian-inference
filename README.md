@@ -13,7 +13,7 @@ On windows:
 
 `winget install julia -s msstore`
 
-3. The packages required in the `Project.toml`. To do so, while running the Julia REPL (run `julia`), enter package management mode by hitting `]`, then switch to this project's environment by running `activate .` (assuming you are in the root directory). Hit backspace to exit package management mode.
+3. The packages required in the `Project.toml`. To get them, while running the Julia REPL (run `julia`), enter package management mode by hitting `]`, then switch to this project's environment by running `activate .` (assuming you are in the root directory). Hit backspace to exit package management mode.
 
 ## Installation
 
